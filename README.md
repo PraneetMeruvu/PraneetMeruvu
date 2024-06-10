@@ -8,7 +8,7 @@
 
 💬 Ask me about Data Analysis, Business Strategy, AI/ML, and Leadership
 
-📄 Reach out to me on [LinkedIn](https://www.linkedin.com/in/anjani-praneet-meruvu/](https://www.linkedin.com/in/praneetanjan/))
+📄 Reach out to me on [LinkedIn](https://www.linkedin.com/in/praneetanjan/)
 
 ⚡ Fun fact: I'm an avid traveler and outdoor enthusiast, having led over 30 treks in the Himalayas!
 
