@@ -15,3 +15,10 @@
 🌱 I have 3 years of experience in data analysis, business strategy, and leadership, along with hands-on project experience in financial analysis and prediction models
 
 📫 How to reach me: ameruvu@binghamton.edu
+
+
+### 📊 GitHub Stats
+
+![Anjani Praneet Meruvu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraneetMeruvu&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aPraneetMeruvu&layout=compact&theme=radical)
