@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Anjani Praneet Meruvu!
 
-<!--
-**PraneetMeruvu/PraneetMeruvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I'm interested in Data Analysis, Business Strategy, and AI/ML
 
-Here are some ideas to get you started:
+🏫 I'm currently pursuing a Master's in Information Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I'm looking to collaborate on data analysis and AI/ML projects
+
+💬 Ask me about Data Analysis, Business Strategy, AI/ML, and Leadership
+
+📄 Reach out to me on [LinkedIn](https://www.linkedin.com/in/anjani-praneet-meruvu/](https://www.linkedin.com/in/praneetanjan/))
+
+⚡ Fun fact: I'm an avid traveler and outdoor enthusiast, having led over 30 treks in the Himalayas!
+
+🌱 I have 3 years of experience in data analysis, business strategy, and leadership, along with hands-on project experience in financial analysis and prediction models
+
+📫 How to reach me: ameruvu@binghamton.edu
