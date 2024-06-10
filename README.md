@@ -21,4 +21,4 @@
 
 ![Anjani Praneet Meruvu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraneetMeruvu&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aPraneetMeruvu&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraneetMeruvu&layout=compact&theme=radical)
