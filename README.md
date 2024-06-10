@@ -13,13 +13,13 @@
 
 💬 Ask me about Data Analysis, Business Strategy, AI/ML, Event Coordination, and Leadership
 
-📄 Reach out to me on [LinkedIn]((https://www.linkedin.com/in/praneetanjan/))
+📄 Reach out to me on [LinkedIn](https://www.linkedin.com/in/praneetanjan/)
 
 ⚡ Fun fact: I'm an avid traveler and outdoor enthusiast, having led over 60 treks in the Himalayas!
 
 🌱 I have 3 years of experience in data analysis, business strategy, and leadership, along with hands-on project experience in financial analysis and prediction models
 
-📫 How to reach me: anjani.meruvu@binghamton.edu
+📫 How to reach me: ameruvu@binghamton.edu
 
 ---
 
